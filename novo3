@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="teste" tvg-name="teste" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste",teste 
+http://paineliptv8.xyz:2082//live/71344099/42968860/30135.ts
+#EXTINF:-1 tvg-id="teste1" tvg-name="teste1" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste1",teste
+http://paineliptv8.xyz:2082//live/71344099/42968860/9127.ts
+#EXTINF:-1 tvg-id="teste1" tvg-name="teste1" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste1",teste
+http://paineliptv8.xyz:2082//live/71344099/42968860/20530.ts
+
